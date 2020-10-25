@@ -5,6 +5,7 @@
     "@babel/compat-data": "^7.9.0",
     "@rails/ujs": "^6.0.0",
     "normalize-scss": "^7.0.1",
+    "tailwindcss": "^1.9.6",
     "turbolinks": "^5.2.0"
   },
   "scripts": {
